@@ -48,4 +48,12 @@
         android:layout_marginTop="30dp"
         android:text="Tip Amount: "
         android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/historyButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="View History" />
+
 </LinearLayout>
